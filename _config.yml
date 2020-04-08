@@ -20,9 +20,9 @@ description: Portfolio &amp; Blog
 baseurl: "/bb" # the optional subpath of your site, e.g. "/blog"
 url: "https://cole-wilson.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
-  name:
+  name: "Cole Wilson"
   twitter:
-  picture:
+  picture: "/assets/images/emblem.png"
 twitter_username:
 github_username: cole-wilson
 logo: /assets/images/emblem.png # path of site logo, e.g. "/assets/images/logo.png"
