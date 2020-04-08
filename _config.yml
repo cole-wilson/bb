@@ -16,7 +16,7 @@
 lang: en-US
 title: Cole Wilson
 email: me@colewilson.xyz
-description: I am a freelance programmer, web designer and Linux enthusiast. I mainly use HTML, Python, PHP, and Bash.
+description: Portfolio &amp; Blog
 baseurl: "/bb" # the optional subpath of your site, e.g. "/blog"
 url: "https://cole-wilson.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
